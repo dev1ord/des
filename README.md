@@ -1,4 +1,4 @@
-# 🔗 Broken Link Checker – GUI + JS Rendering + Multithreading + exe Builder
+# Broken Link Checker – GUI + JS Rendering + Multithreading + exe Builder
 
 A powerful, modern Broken Link Checker desktop application built with **Python**, featuring:
 
@@ -15,7 +15,7 @@ A powerful, modern Broken Link Checker desktop application built with **Python**
 
 ---
 
-# 🚀 Features
+# Features
 
 ## 1. JavaScript Rendering (Next.js / React)
 Uses **Playwright Chromium** to render dynamic pages and extract real DOM links.
@@ -52,7 +52,7 @@ Can be compiled to a **standalone Windows application** via PyInstaller.
 
 ---
 
-# 📦 Installation
+# Installation
 
 ### 1. Install dependencies
 
